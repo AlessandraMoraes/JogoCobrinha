@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(250, 250, 198);
+    height: 95vh;
+    width: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: purple;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.jogo{
+    background-color: black;
+    border-color: black;
+    border-style: double;
+    border: 5px;
+}
